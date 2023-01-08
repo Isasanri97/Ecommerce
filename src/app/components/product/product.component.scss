@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #fff;
+  color: #000;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+/* Home cards */
+.home-cards {
+  margin-top: 20px;
+  height: fit-content;
+}
+
+.home-cards img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.home-cards a:hover i {
+  margin-left: 10px;
+}
+
